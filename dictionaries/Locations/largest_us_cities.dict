@@ -1,0 +1,587 @@
+New York;61
+Los Angeles;61
+Chicago;61
+Houston;61
+Philadelphia;61
+Phoenix;61
+San Antonio;61
+San Diego;61
+Dallas;61
+San Jose;61
+Austin;61
+Indianapolis;61
+Jacksonville;61
+San Francisco;61
+Columbus;61
+Charlotte;61
+Fort Worth;61
+Detroit;61
+El Paso;61
+Memphis;61
+Seattle;61
+Denver;61
+Washington;61
+Boston;61
+Nashville-Davidson;61
+Baltimore;61
+Oklahoma City;61
+Louisville/Jefferson County;61
+Portland;61
+Las Vegas;61
+Milwaukee;61
+Albuquerque;61
+Tucson;61
+Fresno;61
+Sacramento;61
+Long Beach;61
+Kansas City;61
+Mesa;61
+Virginia Beach;61
+Atlanta;61
+Colorado Springs;61
+Omaha;61
+Raleigh;61
+Miami;61
+Oakland;61
+Minneapolis;61
+Tulsa;61
+Cleveland;61
+Wichita;61
+Arlington;61
+New Orleans;61
+Bakersfield;61
+Tampa;61
+Honolulu;61
+Aurora;61
+Anaheim;61
+Santa Ana;61
+St. Louis;61
+Riverside;61
+Corpus Christi;61
+Lexington-Fayette;61
+Pittsburgh;61
+Anchorage;61
+Stockton;61
+Cincinnati;61
+St. Paul;61
+Toledo;61
+Greensboro;61
+Newark;61
+Plano;61
+Henderson;61
+Lincoln;61
+Buffalo;61
+Jersey City;61
+Chula Vista;61
+Fort Wayne;61
+Orlando;61
+St. Petersburg;61
+Chandler;61
+Laredo;61
+Norfolk;61
+Durham;61
+Madison;61
+Lubbock;61
+Irvine;61
+Winston-Salem;61
+Glendale;61
+Garland;61
+Hialeah;61
+Reno;61
+Chesapeake;61
+Gilbert;61
+Baton Rouge;61
+Irving;61
+Scottsdale;61
+North Las Vegas;61
+Fremont;61
+Boise City;61
+Richmond;61
+San Bernardino;61
+Birmingham;61
+Spokane;61
+Rochester;61
+Des Moines;61
+Modesto;61
+Fayetteville;61
+Tacoma;61
+Oxnard;61
+Fontana;61
+Columbus;61
+Montgomery;61
+Moreno Valley;61
+Shreveport;61
+Aurora;61
+Yonkers;61
+Akron;61
+Huntington Beach;61
+Little Rock;61
+Augusta-Richmond County;61
+Amarillo;61
+Glendale;61
+Mobile;61
+Grand Rapids;61
+Salt Lake City;61
+Tallahassee;61
+Huntsville;61
+Grand Prairie;61
+Knoxville;61
+Worcester;61
+Newport News;61
+Brownsville;61
+Overland Park;61
+Santa Clarita;61
+Providence;61
+Garden Grove;61
+Chattanooga;61
+Oceanside;61
+Jackson;61
+Fort Lauderdale;61
+Santa Rosa;61
+Rancho Cucamonga;61
+Port St. Lucie;61
+Tempe;61
+Ontario;61
+Vancouver;61
+Cape Coral;61
+Sioux Falls;61
+Springfield;61
+Peoria;61
+Pembroke Pines;61
+Elk Grove;61
+Salem;61
+Lancaster;61
+Corona;61
+Eugene;61
+Palmdale;61
+Salinas;61
+Springfield;61
+Pasadena;61
+Fort Collins;61
+Hayward;61
+Pomona;61
+Cary;61
+Rockford;61
+Alexandria;61
+Escondido;61
+McKinney;61
+Kansas City;61
+Joliet;61
+Sunnyvale;61
+Torrance;61
+Bridgeport;61
+Lakewood;61
+Hollywood;61
+Paterson;61
+Naperville;61
+Syracuse;61
+Mesquite;61
+Dayton;61
+Savannah;61
+Clarksville;61
+Orange;61
+Pasadena;61
+Fullerton;61
+Killeen;61
+Frisco;61
+Hampton;61
+McAllen;61
+Warren;61
+Bellevue;61
+West Valley City;61
+Columbia;61
+Olathe;61
+Sterling Heights;61
+New Haven;61
+Miramar;61
+Waco;61
+Thousand Oaks;61
+Cedar Rapids;61
+Charleston;61
+Visalia;61
+Topeka;61
+Elizabeth;61
+Gainesville;61
+Thornton;61
+Roseville;61
+Carrollton;61
+Coral Springs;61
+Stamford;61
+Simi Valley;61
+Concord;61
+Hartford;61
+Kent;61
+Lafayette;61
+Midland;61
+Surprise;61
+Denton;61
+Victorville;61
+Evansville;61
+Santa Clara;61
+Abilene;61
+Athens-Clarke County;61
+Vallejo;61
+Allentown;61
+Norman;61
+Beaumont;61
+Independence;61
+Murfreesboro;61
+Ann Arbor;61
+Springfield;61
+Berkeley;61
+Peoria;61
+Provo;61
+El Monte;61
+Columbia;61
+Lansing;61
+Fargo;61
+Downey;61
+Costa Mesa;61
+Wilmington;61
+Arvada;61
+Inglewood;61
+Miami Gardens;61
+Carlsbad;61
+Westminster;61
+Rochester;61
+Odessa;61
+Manchester;61
+Elgin;61
+West Jordan;61
+Round Rock;61
+Clearwater;61
+Waterbury;61
+Gresham;61
+Fairfield;61
+Billings;61
+Lowell;61
+San Buenaventura (Ventura);61
+Pueblo;61
+High Point;61
+West Covina;61
+Richmond;61
+Murrieta;61
+Cambridge;61
+Antioch;61
+Temecula;61
+Norwalk;61
+Centennial;61
+Everett;61
+Palm Bay;61
+Wichita Falls;61
+Green Bay;61
+Daly City;61
+Burbank;61
+Richardson;61
+Pompano Beach;61
+North Charleston;61
+Broken Arrow;61
+Boulder;61
+West Palm Beach;61
+Santa Maria;61
+El Cajon;61
+Davenport;61
+Rialto;61
+Las Cruces;61
+San Mateo;61
+Lewisville;61
+South Bend;61
+Lakeland;61
+Erie;61
+Tyler;61
+Pearland;61
+College Station;61
+;61
+New York	New York;61
+Los Angeles	California;61
+Chicago	Illinois;61
+Houston	Texas;61
+Philadelphia	Pennsylvania;61
+Phoenix	Arizona;61
+San Antonio	Texas;61
+San Diego	California;61
+Dallas	Texas;61
+San Jose	California;61
+Austin	Texas;61
+Indianapolis	Indiana;61
+Jacksonville	Florida;61
+San Francisco	California;61
+Columbus	Ohio;61
+Charlotte	North Carolina;61
+Fort Worth	Texas;61
+Detroit	Michigan;61
+El Paso	Texas;61
+Memphis	Tennessee;61
+Seattle	Washington;61
+Denver	Colorado;61
+Washington	District of Columbia;61
+Boston	Massachusetts;61
+Nashville-Davidson	Tennessee;61
+Baltimore	Maryland;61
+Oklahoma City	Oklahoma;61
+Louisville/Jefferson County	Kentucky;61
+Portland	Oregon;61
+Las Vegas	Nevada;61
+Milwaukee	Wisconsin;61
+Albuquerque	New Mexico;61
+Tucson	Arizona;61
+Fresno	California;61
+Sacramento	California;61
+Long Beach	California;61
+Kansas City	Missouri;61
+Mesa	Arizona;61
+Virginia Beach	Virginia;61
+Atlanta	Georgia;61
+Colorado Springs	Colorado;61
+Omaha	Nebraska;61
+Raleigh	North Carolina;61
+Miami	Florida;61
+Oakland	California;61
+Minneapolis	Minnesota;61
+Tulsa	Oklahoma;61
+Cleveland	Ohio;61
+Wichita	Kansas;61
+Arlington	Texas;61
+New Orleans	Louisiana;61
+Bakersfield	California;61
+Tampa	Florida;61
+Honolulu	Hawaii;61
+Aurora	Colorado;61
+Anaheim	California;61
+Santa Ana	California;61
+St. Louis	Missouri;61
+Riverside	California;61
+Corpus Christi	Texas;61
+Lexington-Fayette	Kentucky;61
+Pittsburgh	Pennsylvania;61
+Anchorage	Alaska;61
+Stockton	California;61
+Cincinnati	Ohio;61
+St. Paul	Minnesota;61
+Toledo	Ohio;61
+Greensboro	North Carolina;61
+Newark	New Jersey;61
+Plano	Texas;61
+Henderson	Nevada;61
+Lincoln	Nebraska;61
+Buffalo	New York;61
+Jersey City	New Jersey;61
+Chula Vista	California;61
+Fort Wayne	Indiana;61
+Orlando	Florida;61
+St. Petersburg	Florida;61
+Chandler	Arizona;61
+Laredo	Texas;61
+Norfolk	Virginia;61
+Durham	North Carolina;61
+Madison	Wisconsin;61
+Lubbock	Texas;61
+Irvine	California;61
+Winston-Salem	North Carolina;61
+Glendale	Arizona;61
+Garland	Texas;61
+Hialeah	Florida;61
+Reno	Nevada;61
+Chesapeake	Virginia;61
+Gilbert	Arizona;61
+Baton Rouge	Louisiana;61
+Irving	Texas;61
+Scottsdale	Arizona;61
+North Las Vegas	Nevada;61
+Fremont	California;61
+Boise City	Idaho;61
+Richmond	Virginia;61
+San Bernardino	California;61
+Birmingham	Alabama;61
+Spokane	Washington;61
+Rochester	New York;61
+Des Moines	Iowa;61
+Modesto	California;61
+Fayetteville	North Carolina;61
+Tacoma	Washington;61
+Oxnard	California;61
+Fontana	California;61
+Columbus	Georgia;61
+Montgomery	Alabama;61
+Moreno Valley	California;61
+Shreveport	Louisiana;61
+Aurora	Illinois;61
+Yonkers	New York;61
+Akron	Ohio;61
+Huntington Beach	California;61
+Little Rock	Arkansas;61
+Augusta-Richmond County	Georgia;61
+Amarillo	Texas;61
+Glendale	California;61
+Mobile	Alabama;61
+Grand Rapids	Michigan;61
+Salt Lake City	Utah;61
+Tallahassee	Florida;61
+Huntsville	Alabama;61
+Grand Prairie	Texas;61
+Knoxville	Tennessee;61
+Worcester	Massachusetts;61
+Newport News	Virginia;61
+Brownsville	Texas;61
+Overland Park	Kansas;61
+Santa Clarita	California;61
+Providence	Rhode Island;61
+Garden Grove	California;61
+Chattanooga	Tennessee;61
+Oceanside	California;61
+Jackson	Mississippi;61
+Fort Lauderdale	Florida;61
+Santa Rosa	California;61
+Rancho Cucamonga	California;61
+Port St. Lucie	Florida;61
+Tempe	Arizona;61
+Ontario	California;61
+Vancouver	Washington;61
+Cape Coral	Florida;61
+Sioux Falls	South Dakota;61
+Springfield	Missouri;61
+Peoria	Arizona;61
+Pembroke Pines	Florida;61
+Elk Grove	California;61
+Salem	Oregon;61
+Lancaster	California;61
+Corona	California;61
+Eugene	Oregon;61
+Palmdale	California;61
+Salinas	California;61
+Springfield	Massachusetts;61
+Pasadena	Texas;61
+Fort Collins	Colorado;61
+Hayward	California;61
+Pomona	California;61
+Cary	North Carolina;61
+Rockford	Illinois;61
+Alexandria	Virginia;61
+Escondido	California;61
+McKinney	Texas;61
+Kansas City	Kansas;61
+Joliet	Illinois;61
+Sunnyvale	California;61
+Torrance	California;61
+Bridgeport	Connecticut;61
+Lakewood	Colorado;61
+Hollywood	Florida;61
+Paterson	New Jersey;61
+Naperville	Illinois;61
+Syracuse	New York;61
+Mesquite	Texas;61
+Dayton	Ohio;61
+Savannah	Georgia;61
+Clarksville	Tennessee;61
+Orange	California;61
+Pasadena	California;61
+Fullerton	California;61
+Killeen	Texas;61
+Frisco	Texas;61
+Hampton	Virginia;61
+McAllen	Texas;61
+Warren	Michigan;61
+Bellevue	Washington;61
+West Valley City	Utah;61
+Columbia	South Carolina;61
+Olathe	Kansas;61
+Sterling Heights	Michigan;61
+New Haven	Connecticut;61
+Miramar	Florida;61
+Waco	Texas;61
+Thousand Oaks	California;61
+Cedar Rapids	Iowa;61
+Charleston	South Carolina;61
+Visalia	California;61
+Topeka	Kansas;61
+Elizabeth	New Jersey;61
+Gainesville	Florida;61
+Thornton	Colorado;61
+Roseville	California;61
+Carrollton	Texas;61
+Coral Springs	Florida;61
+Stamford	Connecticut;61
+Simi Valley	California;61
+Concord	California;61
+Hartford	Connecticut;61
+Kent	Washington;61
+Lafayette	Louisiana;61
+Midland	Texas;61
+Surprise	Arizona;61
+Denton	Texas;61
+Victorville	California;61
+Evansville	Indiana;61
+Santa Clara	California;61
+Abilene	Texas;61
+Athens-Clarke County	Georgia;61
+Vallejo	California;61
+Allentown	Pennsylvania;61
+Norman	Oklahoma;61
+Beaumont	Texas;61
+Independence	Missouri;61
+Murfreesboro	Tennessee;61
+Ann Arbor	Michigan;61
+Springfield	Illinois;61
+Berkeley	California;61
+Peoria	Illinois;61
+Provo	Utah;61
+El Monte	California;61
+Columbia	Missouri;61
+Lansing	Michigan;61
+Fargo	North Dakota;61
+Downey	California;61
+Costa Mesa	California;61
+Wilmington	North Carolina;61
+Arvada	Colorado;61
+Inglewood	California;61
+Miami Gardens	Florida;61
+Carlsbad	California;61
+Westminster	Colorado;61
+Rochester	Minnesota;61
+Odessa	Texas;61
+Manchester	New Hampshire;61
+Elgin	Illinois;61
+West Jordan	Utah;61
+Round Rock	Texas;61
+Clearwater	Florida;61
+Waterbury	Connecticut;61
+Gresham	Oregon;61
+Fairfield	California;61
+Billings	Montana;61
+Lowell	Massachusetts;61
+San Buenaventura (Ventura)	California;61
+Pueblo	Colorado;61
+High Point	North Carolina;61
+West Covina	California;61
+Richmond	California;61
+Murrieta	California;61
+Cambridge	Massachusetts;61
+Antioch	California;61
+Temecula	California;61
+Norwalk	California;61
+Centennial	Colorado;61
+Everett	Washington;61
+Palm Bay	Florida;61
+Wichita Falls	Texas;61
+Green Bay	Wisconsin;61
+Daly City	California;61
+Burbank	California;61
+Richardson	Texas;61
+Pompano Beach	Florida;61
+North Charleston	South Carolina;61
+Broken Arrow	Oklahoma;61
+Boulder	Colorado;61
+West Palm Beach	Florida;61
+Santa Maria	California;61
+El Cajon	California;61
+Davenport	Iowa;61
+Rialto	California;61
+Las Cruces	New Mexico;61
+San Mateo	California;61
+Lewisville	Texas;61
+South Bend	Indiana;61
+Lakeland	Florida;61
+Erie	Pennsylvania;61
+Tyler	Texas;61
+Pearland	Texas;61
+College Station	Texas;61
