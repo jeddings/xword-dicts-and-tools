@@ -115,3 +115,4 @@ xword-dicts-and-tools/
 - `words.db` (SQLite, 200MB+) is excluded due to GitHub's file size limit; use it locally or via Git LFS
 - `Working/`, `TempUnused/`, and `Backup/` directories are excluded (in-progress and archived material)
 # xword-dicts-and-tools
+# xword-dicts-and-tools
