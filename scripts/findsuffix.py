@@ -1,10 +1,17 @@
 import sys
 import re
 import glob
+import argparse
 
 # Get the suffix string from command line, or prompt if it's missing.
 
-pattern = sys.argv[1] if len(sys.argv) > 1 else input("Enter suffix: ")
+parser = argparse.ArgumentParser(description='Find words that contain a given suffix, paired with the base word.')
+parser.add_argument('pattern', nargs='?', help='Suffix to search for')
+parser.add_argument('--dict-dir', default=None,
+                    help='Directory containing .dict files (default: ../dictionaries relative to this script)')
+args = parser.parse_args()
+
+pattern = args.pattern if args.pattern else input("Enter suffix: ")
 
 # Bail if we didn't get a search string.
 
@@ -13,11 +20,19 @@ patternLength = len(pattern)
 if patternLength == 0:
     sys.exit()
 
+# Determine the dictionary directory and glob path.
+import os
+if args.dict_dir:
+    dict_path = os.path.join(args.dict_dir, "*.dict")
+else:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    dict_path = os.path.join(script_dir, "..", "dictionaries", "*.dict")
+
 # Open the text file in read-only mode.
 # If it isn't in current directory, specify full path using forward slash ("/") not backslash.
 outputList = []
 
-path = "/Users/jeddings/Dropbox/Crosswords/Dictionaries/*.dict"
+path = dict_path
 for filename in glob.glob(path):
     # with open("../../*.dict", "r") as f:
 

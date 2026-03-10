@@ -1,1 +1,9 @@
 .DS_Store
+*.db
+*.bak
+*~
+__pycache__/
+*.pyc
+.env
+node_modules/
+found_words.csv
