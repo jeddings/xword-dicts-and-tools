@@ -43,13 +43,13 @@ xword-dicts-and-tools/
 | Script | Description |
 |--------|-------------|
 | `find_words.py` | Search for words matching a pattern across dict files; outputs results as CSV with timestamps |
-| `findprefix.py` | Find all entries with a given prefix across all dicts |
-| `findsuffix.py` | Find all entries with a given suffix across all dicts |
-| `findregex.py` | Regex search across dicts; supports `$v` (vowel) and `$c` (consonant) shorthands |
+| `findprefix.py` | Find all entries with a given prefix across all dicts; use `--dict-dir` to specify the directory |
+| `findsuffix.py` | Find all entries with a given suffix across all dicts; use `--dict-dir` to specify the directory |
+| `findregex.py` | Regex search across dicts; supports `$v` (vowel) and `$c` (consonant) shorthands; use `--dict-file` to specify the file |
 | `find_substring.py` | Find entries containing a given substring |
 | `find_consecutive_consonants.py` | Find entries with N or more consecutive consonants |
 | `find_occurrence.py` | Find occurrence/frequency of specific words |
-| `drop_and_pair.py` | Find word pairs where one is a subset/transform of the other |
+| `drop_and_pair.py` | Find word pairs where one is a subset/transform of the other; use `--dict-file` and `--min-score` options |
 | `backwards.js` | Prototype: find words that spell other words in reverse |
 | `check-existence.js` / `check-existence.sh` | Check whether specific words exist in any dict file |
 
@@ -86,7 +86,6 @@ xword-dicts-and-tools/
 | Script | Description |
 |--------|-------------|
 | `high-match.sh` | Shell script to surface high-scoring matching entries |
-| `distribute_setup.py` | Package setup helper |
 
 ## Key dictionaries
 

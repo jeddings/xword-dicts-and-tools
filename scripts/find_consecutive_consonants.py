@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 '''
@@ -51,7 +51,7 @@ def main():
                     if x[i:i+duplicate].count(x[i]) == duplicate:
                         s = ''
 
-        print s
+        print(s)
 
 #            print three.join()
 

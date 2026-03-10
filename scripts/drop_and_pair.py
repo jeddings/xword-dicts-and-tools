@@ -1,6 +1,9 @@
 #!/usr/local/bin/python3
 
 import re
+import sys
+import os
+import argparse
 
 def find_word_pairs(filename, search_word):
     word_list = []
@@ -47,10 +50,23 @@ def find_word_pairs(filename, search_word):
 
 
 
-# Example usage:
-filename = '../XwiWordList.dict'  # Replace with the actual filename
-search_word = 'RUN'   # Replace with the word to search for
-min_score = 80
+# Command line arguments
+parser = argparse.ArgumentParser(description='Find word pairs where one word contains the other as a suffix.')
+parser.add_argument('search_word', nargs='?', default='RUN', help='Word to search for (default: RUN)')
+parser.add_argument('--dict-file', default=None,
+                    help='Path to the .dict word list file (default: ../dictionaries/all-scored-high.dict)')
+parser.add_argument('--min-score', type=int, default=80,
+                    help='Minimum word score to include (default: 80)')
+args = parser.parse_args()
+
+if args.dict_file:
+    filename = args.dict_file
+else:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    filename = os.path.join(script_dir, '..', 'dictionaries', 'all-scored-high.dict')
+
+search_word = args.search_word
+min_score = args.min_score
 
 pairs = find_word_pairs(filename, search_word)
 print("Word pairs for", search_word, ":")

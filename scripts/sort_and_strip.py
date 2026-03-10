@@ -27,7 +27,7 @@ def read(input):
     #    with open(input, 'r') as f:
     for line in input:
         stop = stop - 1
-        if stop = 0:
+        if stop == 0:
             break
         
         # Remove leading and trailing whitespace
@@ -94,9 +94,10 @@ def contains(words, check, minscore):
         for checkPair in check:
             checkWord = checkPair["word"]
             try:
-                if word.index(checkWord) >= 1 or word.indexOf(checkWord) < len(word) - 2:
+                subidx = word.index(checkWord)
+                if subidx >= 1 and subidx + len(checkWord) < len(word):
                     con.append({'word': word, 'check': checkWord, 'score': score})
-            except:
+            except ValueError:
                 continue
     return con
     
@@ -120,7 +121,7 @@ if __name__ == '__main__':
     check = sort(read(fileinput.input()))
     # print(check)
     
-    contain = contains(words, check, minscore)
+    contain = contains(words, check, 50)
     pprint(contain)
     
     quit()
